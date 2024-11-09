@@ -1,6 +1,6 @@
-# 🌐 GST Number Search Tool - Verify GSTIN Online
+# 🌐 [GST Number Search Tool - Verify GSTIN Online](https://www.Rozgaryojana.in)
 
-Your one-stop solution to instantly verify the authenticity of any GSTIN before proceeding with business transactions. The **GST Number Search Tool** is designed to help vendors, buyers, and taxpayers alike in ensuring GST compliance.
+Your one-stop solution to instantly verify the authenticity of any GSTIN before proceeding with business transactions. The **[GST Number Search Tool](https://www.Rozgaryojana.in)** is designed to help vendors, buyers, and taxpayers alike in ensuring GST compliance.
 
 ---
 
@@ -19,56 +19,56 @@ Your one-stop solution to instantly verify the authenticity of any GSTIN before 
 1. **Visit the [GSTIN Verification Tool](https://www.Rozgaryojana.in)**  
    Go to the tool's page to start verifying a GSTIN or company name.
 
-2. **Enter GSTIN or Business Name**  
+2. **[Enter GSTIN or Business Name](https://www.Rozgaryojana.in)**  
    Type in the GSTIN or business's legal name you wish to verify.
 
-3. **Click "Search"**  
-   Hit the **Search** button to verify the GSTIN details.
+3. **[Click "Search](https://www.Rozgaryojana.in)"**  
+   Hit the **[Search](https://www.Rozgaryojana.in)** button to verify the GSTIN details.
 
-4. **Review the Results**  
+4. **[Review the Results](https://www.Rozgaryojana.in)**  
    View essential details such as:
-   - Business **Legal Name**
-   - **Registration Status** (Active/Inactive)
-   - **Constitution** (Sole Proprietor, Company, etc.)
-   - **State of Jurisdiction**
-   - **Date of Registration**
-   - **GST Type** (Regular, Composition dealer, etc.)
+   - Business **[Legal Name](https://www.Rozgaryojana.in)**
+   - **[Registration Status](https://www.Rozgaryojana.in)** (Active/Inactive)
+   - **[Constitution](https://www.Rozgaryojana.in)** (Sole Proprietor, Company, etc.)
+   - **[State of Jurisdiction](https://www.Rozgaryojana.in)**
+   - **[Date of Registration](https://www.Rozgaryojana.in)**
+   - **[GST Type](https://www.Rozgaryojana.in)** (Regular, Composition dealer, etc.)
 
 ---
 
-## 🎯 Why Verify a GSTIN?
+## 🎯 [Why Verify a GSTIN ?](https://www.Rozgaryojana.in)
 
 Verifying a GSTIN is crucial for:
 
-- **Fraud Prevention** – Ensure you're dealing with legitimate entities.
-- **Compliance** – Confirm GST law compliance before any transaction.
-- **Accurate Returns** – Avoid errors in GST return filings.
-- **Input Tax Credit** – Secure eligibility for Input Tax Credit.
-- **Penalty Avoidance** – Stay clear of penalties linked to non-compliant businesses.
+- **[Fraud Prevention](https://www.Rozgaryojana.in)** – Ensure you're dealing with legitimate entities.
+- **[Compliance](https://www.Rozgaryojana.in)** – Confirm GST law compliance before any transaction.
+- **[Accurate Returns](https://www.Rozgaryojana.in)** – Avoid errors in GST return filings.
+- **[Input Tax Credit](https://www.Rozgaryojana.in)** – Secure eligibility for Input Tax Credit.
+- **[Penalty Avoidance](https://www.Rozgaryojana.in)** – Stay clear of penalties linked to non-compliant businesses.
 
-Start verifying GSTINs on [Rozgaryojana](https://www.Rozgaryojana.in) to ensure transparency in your transactions!
+Start verifying GSTINs on [this tool](https://www.Rozgaryojana.in) to ensure transparency in your transactions!
 
 ---
 
 ## 🌍 How the Tool Helps You
 
-The **GST Number Verification Tool** on [this website](https://www.Rozgaryojana.in) offers:
+The **[GST Number Verification Tool](https://www.Rozgaryojana.in)** on [this website](https://www.Rozgaryojana.in) offers:
 
-- **Real-Time Verification** – Get GSTIN details instantly.
-- **Fraud Detection** – Spot and avoid fraudulent GSTINs.
-- **Error Prevention** – Ensure GST returns and invoices are compliant.
-- **Free Accessibility** – Available at no cost for all users.
+- **[Real-Time Verification](https://www.Rozgaryojana.in)** – Get GSTIN details instantly.
+- **[Fraud Detection](https://www.Rozgaryojana.in)** – Spot and avoid fraudulent GSTINs.
+- **[Error Prevention](https://www.Rozgaryojana.in)** – Ensure GST returns and invoices are compliant.
+- **[Free Accessibility](https://www.Rozgaryojana.in)** – Available at no cost for all users.
 
 ---
 
-## 🚩 Reporting a Fake GSTIN
+## 🚩 [Reporting a Fake GSTIN](https://www.Rozgaryojana.in)
 
 If you find a suspicious or fake GSTIN, report it to GST authorities. Here’s how:
 
-1. **Visit the GST Portal**: Go to **[Search Taxpayer](https://www.Rozgaryojana.in)** > **Search by GSTIN/UIN**.
-2. **Enter the GSTIN**: Type the GST number and click "Search".
-3. **Report Fake GSTIN**: Use the portal or email **helpdesk@gst.gov.in** to report.
-4. **File a Complaint**: Submit a formal complaint for investigation.
+1. **[Visit the GST Portal](https://www.Rozgaryojana.in)**: Go to **[Search Taxpayer](https://www.Rozgaryojana.in)** > **Search by GSTIN/UIN**.
+2. **[Enter the GSTIN](https://www.Rozgaryojana.in)**: Type the GST number and click "Search".
+3. **[Report Fake GSTIN](https://www.Rozgaryojana.in)**: Use the portal or email **[helpdesk@gst.gov.in](https://www.Rozgaryojana.in)** to report.
+4. **[File a Complaint](https://www.Rozgaryojana.in)**: Submit a formal complaint for investigation.
 
 ---
 
@@ -124,7 +124,7 @@ Licensed under the MIT License – see the LICENSE file for details.
 
 ## 📬 Questions?
 
-Reach out to us anytime at **helpdesk@domain.com**
+Reach out to us anytime at **[helpdesk@rozgaryojana.com](https://www.Rozgaryojana.in)**
 
 ---
 
