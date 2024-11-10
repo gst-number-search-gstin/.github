@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="VEtXgYHyRYY70Im-xQsuy5rUd8_szkymOQx0GQcUcNQ" />
 # 🌐 [GST Number Search Tool - Verify GSTIN Online](https://www.Rozgaryojana.in)
 
 Your one-stop solution to instantly verify the authenticity of any GSTIN before proceeding with business transactions. The **[GST Number Search Tool](https://www.Rozgaryojana.in)** is designed to help vendors, buyers, and taxpayers alike in ensuring GST compliance.
