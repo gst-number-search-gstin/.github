@@ -133,7 +133,6 @@ Reach out to us anytime at **[helpdesk@rozgaryojana.com](https://www.Rozgaryojan
 Visit the official website for more:  
 [**Click here to verify GSTIN and more**](https://www.Rozgaryojana.in)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
